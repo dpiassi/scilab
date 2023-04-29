@@ -1,0 +1,9 @@
+[submodule "PME3481"]
+	path = PME3481
+	url = https://github.com/dpiassi/PME3481.git
+[submodule "PME3380"]
+	path = PME3380
+	url = https://github.com/dpiassi/PME3380.git
+[submodule "Misc"]
+	path = Misc
+	url = https://github.com/dpiassi/scilab-miscellaneous.git
