@@ -7,3 +7,6 @@
 [submodule "Misc"]
 	path = Misc
 	url = https://github.com/dpiassi/scilab-miscellaneous.git
+[submodule "PME3401"]
+	path = PME3401
+	url = https://github.com/dpiassi/PME3401.git
